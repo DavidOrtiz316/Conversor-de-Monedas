@@ -1,18 +1,27 @@
-## Getting Started
+# Conversor de Monedas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Se realizo un programa en java que mediante el consumo de una api se puede convertir entre diferentes monedas utilizando las tasas de cambio en referencia al dólar, donde se le solicita al usuaria una opción de que tipo de cambio quiere realizar, luego se le solicita que ingrese el valor correspondiente a cambiar y el programa genera la respuesta o resultado de la conversión.
 
-## Folder Structure
+## Herramientas utilizadas
 
-The workspace contains two folders by default, where:
+1. Biblioteca Gson
+2. Clase Scanner
+3. Declaraciones y asignaciones
+4. Estructuras de control iteractiva (Bucle)
+5. Clase String y sus métodos
+6. Estructura de control condicional
+7. Clase HttpClient
+8. Solicitudes a la API  
+9. Clase HttpRequest 
+10. Configurar y personalizar nuestras solicitudes a la API
+11. Interfaz HttpResponse 
+12. Gestionar las respuestas recibidas de la API.
+13. Manipulación de datos JSON
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+ - Ejecución programa y seleccionar la moneda 
+ - Ingresar cantidad deseada a convertir
+ - Programa muestra el resultado de la conversion y pregunta de nuevo si desea realizar otra conversion o salir
+ 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
