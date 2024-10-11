@@ -12,16 +12,14 @@ Se realizo un programa en java que mediante el consumo de una api se puede conve
 6. Estructura de control condicional
 7. Clase HttpClient
 8. Solicitudes a la API  
-9. Clase HttpRequest 
+9. Clase HttpRequest
 10. Configurar y personalizar nuestras solicitudes a la API
-11. Interfaz HttpResponse 
+11. Interfaz HttpResponse
 12. Gestionar las respuestas recibidas de la API.
 13. Manipulación de datos JSON
 
 ## Uso
 
- - Ejecución programa y seleccionar la moneda 
- - Ingresar cantidad deseada a convertir
- - Programa muestra el resultado de la conversion y pregunta de nuevo si desea realizar otra conversion o salir
- 
-
+- Ejecución programa y seleccionar la moneda
+- Ingresar cantidad deseada a convertir
+- Programa muestra el resultado de la conversion y pregunta de nuevo si desea realizar otra conversion o salir
