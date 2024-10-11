@@ -23,3 +23,7 @@ Se realizo un programa en java que mediante el consumo de una api se puede conve
 - Ejecución programa y seleccionar la moneda
 - Ingresar cantidad deseada a convertir
 - Programa muestra el resultado de la conversion y pregunta de nuevo si desea realizar otra conversion o salir
+
+## Ejemplo de Ejecucion
+
+ <https://github.com/DavidOrtiz316/Conversor-de-Monedas/blob/main/ConversorDeMonedas/src/Img/Captura%20de%20pantalla%20Converso%20de%20monedas.png>
